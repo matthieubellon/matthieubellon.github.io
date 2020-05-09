@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
 }
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
@@ -22,7 +23,7 @@ a:hover {
 h1 {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: normal;
-    font-size: 3em;
+    font-size: 2.5em;
     line-height: 1;
     border-bottom: none;    
     padding-bottom: 0px;
@@ -33,7 +34,7 @@ h1 {
  h2 {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1;
     border-bottom: none;
     padding-bottom: 0px;
