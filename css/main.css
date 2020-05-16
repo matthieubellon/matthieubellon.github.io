@@ -3,7 +3,7 @@ body {
     width: 70%;
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
     color: #444;
-    font-size: 13px;
+    font-size: 14px;
 }
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'sans-serif';
@@ -67,7 +67,7 @@ ul.posts li {
 }
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
-  background-color: #f1f1f1;
+  background-color: #FFFFFF;
   color: #444;
   cursor: pointer;
   /*padding: 18px;*/
@@ -75,12 +75,12 @@ ul.posts li {
   border: none;
   text-align: left;
   outline: none;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
-  background-color: #999;
+  background-color: #f1f1f1;
 }
 
 /* Style the collapsible content. Note: hidden by default */
