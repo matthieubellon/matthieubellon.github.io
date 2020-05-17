@@ -4,3 +4,6 @@ permalink: /blog/:year/:month/:day/:title
 
 # Google Analytics
 google_analytics: UA-166258115-1
+
+plugins:
+  - jekyll-sitemap
